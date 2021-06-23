@@ -1,0 +1,40 @@
+-------------------------------------------------------------
+Weather Stats for - BHANDARA  || 23 Jun 2021 | 06:52:55 AM
+-------------------------------------------------------------
+Current temperature is: 27.33 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 68 %
+Current wind speed    : 3.76 kmph
+Current clouds        : 97
+-------------------------------------------------------------
+Weather Stats for - BHANDARA  || 23 Jun 2021 | 06:54:05 AM
+-------------------------------------------------------------
+Current temperature is: 27.33 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 68 %
+Current wind speed    : 3.76 kmph
+Current clouds        : 97
+-------------------------------------------------------------
+Weather Stats for - NAGPUR  || 23 Jun 2021 | 06:54:34 AM
+-------------------------------------------------------------
+Current temperature is: 27.01 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 89 %
+Current wind speed    : 3.6 kmph
+Current clouds        : 90
+-------------------------------------------------------------
+Weather Stats for - NAGPUR  || 23 Jun 2021 | 06:54:34 AM
+-------------------------------------------------------------
+Current temperature is: 27.01 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 89 %
+Current wind speed    : 3.6 kmph
+Current clouds        : 90
+-------------------------------------------------------------
+Weather Stats for - PUNE  || 23 Jun 2021 | 06:56:21 AM
+-------------------------------------------------------------
+Current temperature is: 27.32 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 65 %
+Current wind speed    : 5.93 kmph
+Current clouds        : 100
